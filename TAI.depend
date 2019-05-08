@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1557329260 source:c:\users\fanch\desktop\copie\tai\state.cpp
+	"State.h"
+
+1557329209 c:\users\fanch\desktop\copie\tai\state.h
+
+1557329837 source:c:\users\fanch\desktop\copie\tai\automaton.cpp
+	"Automaton.h"
+	<fstream>
+	<iostream>
+	<sstream>
+	<deque>
+	<algorithm>
+
+1557329265 c:\users\fanch\desktop\copie\tai\automaton.h
+	<stdio.h>
+	<string>
+	<vector>
+	<deque>
+	"Transition.h"
+	"Automaton.h"
+
+1557329753 c:\users\fanch\desktop\copie\tai\transition.h
+	"State.h"
+
+1557330874 source:c:\users\fanch\desktop\copie\tai\main.cpp
+	<iostream>
+	"Automaton.h"
+
+1557329270 source:c:\users\fanch\desktop\copie\tai\transition.cpp
+	"Transition.h"
+
+1557330874 source:c:\users\fanch\desktop\copie\main.cpp
+	<iostream>
+	"Automaton.h"
+
+1557329265 c:\users\fanch\desktop\copie\automaton.h
+	<stdio.h>
+	<string>
+	<vector>
+	<deque>
+	"Transition.h"
+	"Automaton.h"
+
+1557329753 c:\users\fanch\desktop\copie\transition.h
+	"State.h"
+
+1557329209 c:\users\fanch\desktop\copie\state.h
+
